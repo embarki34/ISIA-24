@@ -23,8 +23,6 @@ Patients with chronic diseases in developing countries like Algeria face increas
     └── frozen/
         ├── Base-Arabert_PRC.png
         ├── Base-Arabert_ROC.png
-        ├── Larg-Arabert_PRC.png
-        ├── Larg-Arabert_ROC.png
         ├── AraElectra_PRC.png
         ├── AraElectra_ROC.png
         ├── DziriBert_PRC.png
